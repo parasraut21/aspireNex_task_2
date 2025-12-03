@@ -9,17 +9,6 @@
 - Please note that the application might experience slower response times due to the free plan of the Render hosting service.
 - This notice will inform you about potential performance issues and set their expectations accordingly. 
 
-<hr/>
-
-### Made By Paras Raut
-### Personal Postfolio :- https://paras-raut.vercel.app/
-### Linkedin :- https://www.linkedin.com/in/paras-raut/
-### Github :- https://github.com/parasraut21
-### parasraut2511@gmail.com
-### 9356375273
-
-<hr/>
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
